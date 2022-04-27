@@ -1,9 +1,15 @@
-Hello there, my name is Piotr Majewski and I work as a software engineer.
+## Hello there!
 
-I’m familiar with java 8, a bit of kotlin, groovy and bash, as well as bits of docker, jenkins and AWS, currently learning to pass OCA 1Z0-808 exam.
-I’d love to collaborate with you on my [discord bot](https://github.com/majewski-piotr/wodbot) for World of Darkness :vampire: roleplay, appreciate any feedback and ideas.
+It's very nice of you to visit my github profile!
+Feel free to collaborate & raise any issues on my repos, all feedback is appreciated!
 
-Contact me here or on [linkedin](https://www.linkedin.com/in/piotr-majewski-691784157/)
+### About me
+My name, as you've probably guessed, is Piotr. Im from Poland, 30yo at the moment of writing this, and I'm lucky enough to work as a software engineer. I starter my adventure with programming and overall IT quite recently, but it brings me a lot of joy and I plan to continue on this path.
+
+
+### Contact 
+ - [linkedin](https://www.linkedin.com/in/piotr-majewski-691784157/)
+ - [stackoverflow](tackoverflow.com/users/14383539/piotr-majewski)
 
 <!---
 majewski-piotr/majewski-piotr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
