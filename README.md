@@ -8,6 +8,9 @@ I’m a Cloud DevOps specialist with a programming background, focusing on smoot
 I have experience with designing and managing Kubernetes clusters to keep them reliable and scalable.
 My goal is to create cloud environments that are efficient and support business needs.
 
+### My Badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ### Contact
  - [linkedin](https://www.linkedin.com/in/piotr-majewski-691784157/)
