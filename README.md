@@ -10,6 +10,7 @@ My goal is to create cloud environments that are efficient and support business 
 
 ### My Badges
 <!--START_SECTION:badges-->
+[![AWS Knowledge: Serverless](https://images.credly.com/size/110x110/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png)](http://www.credly.com/badges/9be19637-4115-436f-8a89-48da57ff27d0 "AWS Knowledge: Serverless")
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/7a320fd5-131a-443d-841f-98385d4a352a "CKA: Certified Kubernetes Administrator")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/3da43a3a-1823-4076-b1a9-fd1d898569b2 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/130cfa67-f7ee-4fbd-a99b-2fbc64165804 "AWS Certified SysOps Administrator – Associate")
